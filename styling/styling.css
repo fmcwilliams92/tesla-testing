@@ -1,0 +1,20 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* title */
+.title, h1 {
+    color: green;
+    text-align: center;
+}
+
+/* this is the body data */
+.bodyData, p {
+    color: orange;
+}
+
+#words {
+    color: green;
+}
